@@ -5,7 +5,7 @@ A curated list of awesome open source tools and commercial products for monitori
  * [Aporia](https://www.aporia.com/): Observability with customized monitoring and explainability for ML models.
  * [Arize](https://github.com/Arize-ai/client_python): An end-to-end ML observability and model monitoring platform.
  * [Arize-Phoenix](https://github.com/Arize-ai/phoenix): An open-source ML observability library for LLMs, vision, language, and tabular models.
-* [Datatile](https://github.com/polyaxon/datatile): A library for managing, summarizing, and visualizing data.
+ * [Datatile](https://github.com/polyaxon/datatile): A library for managing, summarizing, and visualizing data.
  * [DataProfiler](https://github.com/capitalone/DataProfiler): A Python library designed to make data analysis, monitoring and sensitive data detection easy.
  * [Deepchecks](https://github.com/deepchecks/deepchecks): Test Suites for Validating ML Models & Data. Deepchecks is a Python package for comprehensively validating your machine learning models and data with minimal effort.
  * [Evidently](https://github.com/evidentlyai/evidently): Interactive reports to analyze ML models during validation or production monitoring.
