@@ -12,6 +12,7 @@ A curated list of awesome open source tools and commercial products for monitori
  * [Great Expectations](https://github.com/great-expectations/great_expectations): Helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
  * [Manifold](https://github.com/uber/manifold): A model-agnostic visual debugging tool for machine learning.
  * [Netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning, and machine learning models.
+ * [NannyML](https://www.nannyml.com/): A Python libary and cloud platform for monitoring model performance in production(even without labels), detecting data drift and data quality issues. 
  * [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling): Extends the pandas DataFrame with df.profile_report() for quick data analysis.
  * [Pandera](https://github.com/pandera-dev/pandera): A light-weight, flexible, and expressive data validation library for dataframes.
  * [Superwise](https://www.superwise.ai): Fully automated, enterprise-grade model observability in a self-service SaaS platform.
